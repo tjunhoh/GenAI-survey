@@ -28,7 +28,7 @@ Tjun Hoh
 
 ---
 
-![bg left](dalle_duck.webp)
+![bg left](images/dalle_duck.webp)
 
 ### Rubber duck debugging
 Stuck on a problem? Describe it to a rubber duck!
@@ -37,7 +37,7 @@ Stuck on a problem? Describe it to a rubber duck!
 
 ---
 
-![bg left contain](cs50ai.png)
+![bg left contain](images/cs50ai.png)
 
 ### CS50 duck
 Harvard University's AI chatbot for CS50: Introduction to Computer Science
@@ -46,7 +46,7 @@ Harvard University's AI chatbot for CS50: Introduction to Computer Science
 
 ---
 
-![bg left contain](cs50ai_1.png)
+![bg left contain](images/cs50ai_1.png)
 
 ### CS50 duck
 * "ChatGPT can be too helpful"
@@ -57,7 +57,7 @@ https://yaledailynews.com/blog/2023/09/07/yale-to-integrate-artificial-intellige
 
 ---
 
-![bg left contain](githubcopilot.png)
+![bg left contain](images/githubcopilot.png)
 
 ### Copilots / IDE integration
 
@@ -82,7 +82,7 @@ https://nationalcentreforai.jiscinvolve.org/wp/2024/06/19/product-notes-blackboa
 
 ---
 
-![bg left contain](ai-design-assistant-ss.jpg)
+![bg left contain](images/ai-design-assistant-ss.jpg)
 
 ### Blackboard Learn Ultra
 Able to generate suggestions based on different cognitive levels from Bloom’s taxonomy
@@ -91,7 +91,7 @@ Able to generate suggestions based on different cognitive levels from Bloom’s 
 
 ---
 
-![bg left contain](taxonomy-infographic.png)
+![bg left contain](images/taxonomy-infographic.png)
 
 ### Bloom's Taxonomy
 Hierarchy of cognitive levels for learning
@@ -114,7 +114,7 @@ https://www.harvard.edu/ai/teaching-resources/" -->
 
 ---
 
-![bg left contain](openlearnermodel.png)
+![bg left contain](images/openlearnermodel.png)
 
 ### Retrieval-augmented generation (RAG)
 
@@ -124,7 +124,7 @@ https://www.harvard.edu/ai/teaching-resources/" -->
 
 ---
 
-![bg left contain](dalle-multisystems.webp)
+![bg left contain](images/dalle-multisystems.webp)
 
 ### Multi-Agent Systems
 
@@ -144,7 +144,7 @@ https://github.com/ncwilson78/System-Prompt-Library/blob/main/Multi-Agent%20Syst
 
 ---
 
-![bg left contain](prompts.png)
+![bg left contain](images/prompts.png)
 ### Prompt library
 * ~~Administrative~~
 * Learning
@@ -154,7 +154,7 @@ https://github.com/ncwilson78/System-Prompt-Library/blob/main/Multi-Agent%20Syst
 
 ---
 
-![bg left contain](chat_gpt_problemsets.png)
+![bg left contain](images/chat_gpt_problemsets.png)
 
 ### Creating problem sets
 Click here for full conversation: https://chatgpt.com/share/66e99f0e-8474-8002-8c90-fd0b10ec04f3
@@ -164,7 +164,7 @@ https://www.youtube.com/watch?v=tsmHmjBfGwI" -->
 
 ---
 
-![bg left contain](outperforms.png)
+![bg left contain](images/outperforms.png)
 
 ### AI Tutoring Outperforms Active Learning*
 
@@ -230,7 +230,7 @@ The most common use is as an ‘AI private tutor’ (36%), helping to explain co
 ---
 
 
-![](askgpt.png)
+![](images/askgpt.png)
 
 ## Student use of GenAI declining over time?!*
 <sup><sub>*in a Brown University (USA) undergraduate course on applied logic and formal methods</sub></sup>
@@ -239,7 +239,7 @@ The most common use is as an ‘AI private tutor’ (36%), helping to explain co
 
 ---
 
-![bg left contain](askgpt_reasons.png)
+![bg left contain](images/askgpt_reasons.png)
 
 ## Student responses
 
